@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "denetryake",
+  "repo": "container-jcg7kzk",
+  "name": "denetryake",
+  "email": "denetryake@hotmail.com",
+}
