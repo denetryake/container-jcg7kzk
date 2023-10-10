@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Oct 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update app.py ([@denetryake](https://github.com/denetryake))
+
+#### Authors: 1
+
+- [@denetryake](https://github.com/denetryake)
+
+---
+
 # v0.0.1 (Tue Oct 10 2023)
 
 :tada: This release contains work from a new contributor! :tada:
