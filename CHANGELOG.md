@@ -1,3 +1,15 @@
+# v0.0.5 (Tue Oct 10 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update entrypoint.sh ([@denetryake](https://github.com/denetryake))
+
+#### Authors: 1
+
+- [@denetryake](https://github.com/denetryake)
+
+---
+
 # v0.0.4 (Tue Oct 10 2023)
 
 #### ⚠️ Pushed to `main`
