@@ -1,3 +1,15 @@
+# v0.0.7 (Sat Dec 16 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Create token ([@denetryake](https://github.com/denetryake))
+
+#### Authors: 1
+
+- [@denetryake](https://github.com/denetryake)
+
+---
+
 # v0.0.6 (Tue Oct 10 2023)
 
 #### ⚠️ Pushed to `main`
